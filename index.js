@@ -1,5 +1,3 @@
-console.log('ok')
-
 const express = require('express')
 const app = express()
 
